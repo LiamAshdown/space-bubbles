@@ -1,4 +1,4 @@
-import { Text, Texture } from "pixi.js";
+import { Text } from "pixi.js";
 import { Navigation } from "../../engine/navigation/navigation";
 import { OverlayAbstract, type OverlayParams } from "./overlay";
 import { FancyButton } from "@pixi/ui";

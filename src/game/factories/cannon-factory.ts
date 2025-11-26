@@ -1,5 +1,4 @@
-import { Graphics, Rectangle, type Container } from "pixi.js";
-import type { EntityManager } from "../../engine/ecs/entity-manager";
+import { Graphics } from "pixi.js";
 import type { Entity } from "../../engine/ecs/types";
 import { createSprite } from "../utils/sprite";
 import { SpriteComponent } from "../components/sprite-component";
