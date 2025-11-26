@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+public/assets
+src/manifest.json
+*.min.js
+*.lock
+package-lock.json
+coverage

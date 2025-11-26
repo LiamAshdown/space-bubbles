@@ -1,0 +1,344 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "alias": [
+            ".gitignore"
+          ],
+          "src": [
+            ".gitignore"
+          ],
+          "data": {
+            "tags": {}
+          }
+        }
+      ]
+    },
+    {
+      "name": "game",
+      "assets": [
+        {
+          "alias": [
+            "images/game/explosion",
+            "explosion"
+          ],
+          "src": [
+            "images/game/explosion@0.5x.webp.json",
+            "images/game/explosion@0.5x.png.json",
+            "images/game/explosion.webp.json",
+            "images/game/explosion.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "images/game/spritesheet",
+            "spritesheet"
+          ],
+          "src": [
+            "images/game/spritesheet@0.5x.webp.json",
+            "images/game/spritesheet@0.5x.png.json",
+            "images/game/spritesheet.webp.json",
+            "images/game/spritesheet.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "preload",
+      "assets": [
+        {
+          "alias": [
+            "images/preload",
+            "preload"
+          ],
+          "src": [
+            "images/preload@0.5x.webp.json",
+            "images/preload@0.5x.png.json",
+            "images/preload.webp.json",
+            "images/preload.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "sounds",
+      "assets": [
+        {
+          "alias": [
+            "sounds/blop.mp3",
+            "blop.mp3"
+          ],
+          "src": [
+            "sounds/blop.ogg",
+            "sounds/blop.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/click.mp3",
+            "click.mp3"
+          ],
+          "src": [
+            "sounds/click.ogg",
+            "sounds/click.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/completed.mp3",
+            "completed.mp3"
+          ],
+          "src": [
+            "sounds/completed.ogg",
+            "sounds/completed.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/gameover.mp3",
+            "gameover.mp3"
+          ],
+          "src": [
+            "sounds/gameover.ogg",
+            "sounds/gameover.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/music.mp3",
+            "music.mp3"
+          ],
+          "src": [
+            "sounds/music.ogg",
+            "sounds/music.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop1.mp3",
+            "pop1.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop1.ogg",
+            "sounds/pop/pop1.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop10.mp3",
+            "pop10.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop10.ogg",
+            "sounds/pop/pop10.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop11.mp3",
+            "pop11.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop11.ogg",
+            "sounds/pop/pop11.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop2.mp3",
+            "pop2.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop2.ogg",
+            "sounds/pop/pop2.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop3.mp3",
+            "pop3.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop3.ogg",
+            "sounds/pop/pop3.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop4.mp3",
+            "pop4.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop4.ogg",
+            "sounds/pop/pop4.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop5.mp3",
+            "pop5.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop5.ogg",
+            "sounds/pop/pop5.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop6.mp3",
+            "pop6.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop6.ogg",
+            "sounds/pop/pop6.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop7.mp3",
+            "pop7.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop7.ogg",
+            "sounds/pop/pop7.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop8.mp3",
+            "pop8.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop8.ogg",
+            "sounds/pop/pop8.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/pop/pop9.mp3",
+            "pop9.mp3"
+          ],
+          "src": [
+            "sounds/pop/pop9.ogg",
+            "sounds/pop/pop9.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "sounds/swap.mp3",
+            "swap.mp3"
+          ],
+          "src": [
+            "sounds/swap.ogg",
+            "sounds/swap.mp3"
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
